@@ -1,0 +1,3 @@
+1. git add <archivo> → Añade archivos al área de preparación.
+2. git commit -m "mensaje" → Guarda los cambios en el historial local.
+3. git push origin <rama> → Sube los commits al repositorio remoto.
