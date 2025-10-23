@@ -1,0 +1,1 @@
+Proyecto de venta de uniformes mayorista, haremos un ecommerce con todas las funciones posibles para hacer una pagina muy completa y 100% funcinal
